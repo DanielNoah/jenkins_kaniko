@@ -32,7 +32,7 @@ spec:
     }
   }
   environment {
-    imageName = "daniel/cicd-kaniko"
+    imageName = "daniel7/jenkins_kaniko"
     projectName = "kaniko-pipeline"
   }
   stages {
